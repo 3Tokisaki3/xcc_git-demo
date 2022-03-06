@@ -3,5 +3,3 @@ public class HelloWorld {
 		System.out.println("HelloWorld!!!");
 	}
 }
-master test
-hot-fix test
